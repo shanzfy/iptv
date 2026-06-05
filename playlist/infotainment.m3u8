@@ -1,0 +1,17 @@
+#EXTINF:-1 tvg-id="209000" tvg-name="Luxel HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378560772.png" group-title="Infotainment",Luxel HD
+https://nomawnoijl.gpcdn.net/akash/luxell/playlist.m3u8
+
+#EXTINF:-1 tvg-id="246000" tvg-name="Delicious" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778086478755.png" group-title="Infotainment",Delicious
+https://nomawnoijl.gpcdn.net/akash/delicious/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Travel XP English NZ" group-title="Infotainment",Travel XP English NZ
+https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Travel XP English" group-title="Infotainment",Travel XP English
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Food Food" group-title="Infotainment",Food Food
+http://103.175.73.12:8080/live/143/143_0.m3u8
+
+#EXTINF:-1 tvg-name="Motor Vision" group-title="Infotainment",Motor Vision
+https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8

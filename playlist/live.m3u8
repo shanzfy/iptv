@@ -1,0 +1,14 @@
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019235/1780611380459295_RG26_Extra_Serve_studio_show_5jun_landscape_thumb.jpg" group-title="Live Event", Day 13 - SF - 5 Jun 2026 [ENG] - Roland-Garros 2026
+https://sonydaimenew.akamaized.net/hls/live/2005445/Multi_Da0506/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780702216~acl=/*~id=47631385134010417627163094419102~hmac=40efb9977046e3f8430091b2b3e399c303fd170af0df669dfbf23fcc74a43915
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019235/1780611380459295_RG26_Extra_Serve_studio_show_5jun_landscape_thumb.jpg" group-title="Live Event", Day 13 - SF - 5 Jun 2026 [HIN] - Roland-Garros 2026
+https://sonydaimenew.akamaized.net/hls/live/2005445/Multi_Da0506/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780702216~acl=/*~id=47631385134010417627163094419102~hmac=40efb9977046e3f8430091b2b3e399c303fd170af0df669dfbf23fcc74a43915
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019157/1780552960718512_ENGvsNZ_1Test_day2_live_4june_landscape_thumb.jpg" group-title="Live Event", 1st Test - Day 2 - 5 Jun 2026  [ENG] - New Zealand Tour of England 2026
+https://sonydaimenew.akamaized.net/hls/live/20000301/Cricket_0506/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780702216~acl=/*~id=47631385134010417627163094419102~hmac=40efb9977046e3f8430091b2b3e399c303fd170af0df669dfbf23fcc74a43915
+
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/JOg0jZ4BIxFjn23xbePr/posters/683d682a-5589-48e4-b08c-1afe5dc9c3e4.png",[BD] BAN VS AUS
+https://prod-cdn01-live.toffeelive.com/live/BDVSAUS-26/index.m3u8?edge-cache-token=Expires=1780643086~Starts=1780642966~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=bEjDKeVb2tK8uElee6OJ55iXI3LFc9chWlWJ2Q2N-PJAAm1KYnBjNPnHCFxk6JX-e1cC-sErNejbR9kiwxRUCg
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142987_6094_NC_UPBS_FC-WEB_1780318028422.jpg" group-title="Live Event", Northern Challengers vs UP Brij Stars (Big Cricket League Season 2)
+https://bd-mc-fblive.fancode.com/mumbai/142987_english_hls_46038a46e995209_1ta-di_h264/index.m3u8

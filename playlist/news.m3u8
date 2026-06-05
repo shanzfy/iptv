@@ -1,0 +1,77 @@
+#EXTINF:-1 tvg-id="98000" tvg-name="Somoy TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png" group-title="News",Somoy TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+
+#EXTINF:-1 tvg-id="97000" tvg-name="Jamuna TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png" group-title="News",Jamuna TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+
+#EXTINF:-1 tvg-id="185000" tvg-name="DBC News HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png" group-title="News",DBC News HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
+
+#EXTINF:-1 tvg-id="102000" tvg-name="Ekattor HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png" group-title="News",Ekattor HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+
+#EXTINF:-1 tvg-id="94000" tvg-name="Channel 24 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png" group-title="News",Channel 24 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+
+#EXTINF:-1 tvg-id="93000" tvg-name="ATN News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png" group-title="News",ATN News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+
+#EXTINF:-1 tvg-id="186000" tvgo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186895850.png" group-title="News",News 24 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
+
+#EXTINF:-1 tvg-id="191000" tvg-name="Star News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png" group-title="News",Star News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
+
+#EXTINF:-1 tvg-id="169000" tvg-name="Al Jazeera" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1777454219313.png" group-title="News",Al Jazeera
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+
+#EXTINF:-1 tvg-id="247000" tvg-name="Independent TV " tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087037971.png" group-title="News",Independent TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bbc-news-logo-8648ABD044-seeklogo.com.png" group-title="News",BBC News
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_3000000=8-mp4a_208000_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/7a20437e5660324c20cf8251ccb7a697" group-title="News",BBC News
+https://tvsen6.aynaott.com/bbcnews/index.m3u8?e=1780662760&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e4c14c930be5f174e82508058ff13677
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/ece71c1163a377fbe2d93f9d28c34f60" group-title="News",Somoy News TV
+https://tvsen6.aynaott.com/somoytv/index.m3u8?e=1780662760&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=545fc9867afd3460684757d123babc96
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/129b0d0a02566999a0c164cd7d506e55" group-title="News",Channel 24
+https://tvsen6.aynaott.com/channel24/index.m3u8?e=1780662760&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d97354a59739fb3f98c7f7b3a466f888
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/8a3c5215dc0b943dc0a80333c0ab21ce" group-title="News",ATN News
+https://tvsen6.aynaott.com/atnnews/index.m3u8?e=1780662760&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=9c470762e21eeaab8d3c5080f372bedf
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/6653326503fcade746d87881d5c99697" group-title="News",Independent TV
+https://tvsen6.aynaott.com/independenttv/index.m3u8?e=1780662760&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=bfdca2ae8ef6d2b8f4ae46305d5f92a1
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/2c5a73ac3f9772a9cb2d18df1b152545" group-title="News",DBC News
+https://tvsen6.aynaott.com/dbcnews/index.m3u8?e=1780662760&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c78a2ae7cbad2ac8244a453cd6709ddb
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/274c30c492e8795c8011d0129113f4bc" group-title="News",Ekhon TV
+https://tvsen6.aynaott.com/ekhontv/index.m3u8?e=1780662760&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d452d98b7a837a4efbc94834e7bcddba
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/7c002f22c02096b0d1ba833ae9ea6d5b" group-title="News",News 24 BD
+https://tvsen6.aynaott.com/news24/index.m3u8?e=1780662761&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=9810f899fd13485e8756c86b70f7eae8
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/d91767995b2f2a54852c92bbbc20daa7" group-title="News",Ekattor TV
+https://tvsen6.aynaott.com/ekattorbdtv/index.m3u8?e=1780662761&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=10a6c81667d7f8008ea3a3b9e65524eb
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/aac6488b68844e5756ab46eb79659de8" group-title="News",Jamuna TV
+https://tvsen6.aynaott.com/jamunatv/index.m3u8?e=1780662761&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f12661daba965b46f10112e69107622a
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/e0b6da4715f468eb39591911a0597546" group-title="News",CNN
+https://tvsen6.aynaott.com/cnn/index.m3u8?e=1780662761&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=850f3c5779e28ea3448387aaee6f7a28
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/5d707a103f48d8f9f1634f1b70e2ecdf" group-title="News",AlJazeera
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/0ce159bdea29fce7e3e85d12bc8a10c5" group-title="News",DW News
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/69d8281f965475f3293a3e30de8c0ccb" group-title="News",Sky News
+https://tvsen5.aynaott.com/skynews/index.m3u8?e=1780662761&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f210d6d7fc96d3e8fb4fab0c91ee9e9b
+
+#EXTINF:-1 tvg-name="Somoy News TV (1080p)" group-title="News",Somoy News TV (1080p)
+https://bozztv.com/rongo/rongo-somoy/index.m3u8

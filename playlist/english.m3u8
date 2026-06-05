@@ -1,0 +1,41 @@
+#EXTINF:-1 tvg-id="205000" tvg-name="Sports Legends" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770377900139.png" group-title="English",Sports Legends
+https://nomawnoijl.gpcdn.net/akash/sportslegends/playlist.m3u8
+
+#EXTINF:-1 tvg-id="206000" tvg-name="Flash Guys HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378074527.png" group-title="English",Flash Guys HD
+https://nomawnoijl.gpcdn.net/akash/flashguys/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/5e74c3498e10b3cd2dadfe676681d387" group-title="English",Islam TV
+https://tvsen6.aynaott.com/islam/index.m3u8?e=1780662763&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=4a194321288f1e29e62b0bc7bfbab294
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/4a1291716680b5c095d33e106337bb04" group-title="English",HBO
+https://tvsen5.aynaott.com/hbo/index.m3u8?e=1780662763&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b83113d01c1c8ba09dc6d0bd4bd7add5
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/319020b844885cbabcd34e3f2f84d283" group-title="English",CGTN Docu
+https://tvsen6.aynaott.com/cgtnDocumentary/index.m3u8?e=1780662763&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=18d12c93a0bb5ca80674b924c1444fdb
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/20e4602dd584784607e5eff3963cdde6" group-title="English",Fox business
+https://tvsen6.aynaott.com/foxbusiness/index.m3u8?e=1780662763&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=6b7edc7461bfcfada12f1071bb79ee98
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3f7983c0bc7cacd206dd195a2eff6b10" group-title="English",Discovery Family
+https://tvsen5.aynaott.com/discoveryfamily/index.m3u8?e=1780662763&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=ed5532b8122f33c90688eecb7d06984b
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/7604a2c87620363fce86b73731b8035d" group-title="English",BRAVO
+https://tvsen7.aynaott.com/bravo/index.m3u8?e=1780662763&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e1b42773b3fa90dc7657379641fe80ed
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/211d55de947bdf03f5c18b7e30e0d98b" group-title="English",COMEDY CENTRAL
+https://tvsen7.aynaott.com/comedycentral/index.m3u8?e=1780662764&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=80962d7a7f6063c553a52912c4884543
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/f403cc315ca6269c5fcbf1875c95d329" group-title="English",FX TV
+https://tvsen7.aynaott.com/fx/index.m3u8?e=1780662764&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=9f13811ff4cdd2e3f23ef590249250cb
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/2dce8297266bbc9c235c27119f914e1b" group-title="English",Nat Geo TV
+https://tvsen6.aynaott.com/natgeo/index.m3u8?e=1780662764&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=ff5a1dc67f6b13b8fa2662b8616df471
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/addd5f3c52326489e02df9aa14bb4ea5" group-title="English",SYFY TV
+https://tvsen7.aynaott.com/syfy/index.m3u8?e=1780662764&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=0fe34e36888ec37b03c7bee30ab72105
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/16a213d06e7362d97cb6085e70c9b5a2" group-title="English",CNBC TV
+https://tvsen6.aynaott.com/cnbc/index.m3u8?e=1780662764&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b4041ae6721f0ee92f5c7ee29d9416c0
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/9a9ca715640d3dc227a0a74750ab17f2" group-title="English",MSNBC News
+https://tvsen6.aynaott.com/msnbc/index.m3u8?e=1780662764&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=32391efc31a7fcc2d49ae28e202dd0a9

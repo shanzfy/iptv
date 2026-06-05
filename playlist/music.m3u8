@@ -1,0 +1,20 @@
+#EXTINF:-1 tvg-id="241000" tvg-name="Party Universe" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778083145889.png" group-title="Music",Party Universe
+https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Baallee" group-title="Music",Baallee
+https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-name="Music Mastii" group-title="Music",Music Mastii
+https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-name="YRF Music HD" group-title="Music",YRF Music HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-name="E24" group-title="Music",E24
+http://103.175.73.12:8080/live/159/159_0.m3u8
+
+#EXTINF:-1 tvg-name="Hindi Hits HD" group-title="Music",Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+
+#EXTINF:-1 tvg-name="Dhoom Music" group-title="Music",Dhoom Music
+http://103.175.73.12:8080/live/378/378_0.m3u8

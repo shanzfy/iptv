@@ -1,0 +1,83 @@
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Bangla",Ekushey TV
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Bangla",Deepto TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-id="MUSICBANGLA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Music_Bangla_new.jpeg",MUSIC BANGLA
+http://live.matribhumitv.com/music-bangla/index.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-id="deshitv.bd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png",MY TV
+https://mytvbangla.com/0.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-id="MAASRANGA.bd" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/a3/Maasranga_TV_HD_logo.png",MAASRANGA HD
+http://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
+
+#EXTINF:-1 tvg-id="229000" tvg-name="Maasranga TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1773680325498.png" group-title="Bangla",Maasranga TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+
+#EXTINF:-1 tvg-id="134000" tvg-name="Deepto TV HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png" group-title="Bangla",Deepto TV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+
+#EXTINF:-1 tvg-id="188000" tvg-name="Channel 9 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770188008067.png" group-title="Bangla",Channel 9 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
+
+#EXTINF:-1 tvg-id="141000" tvg-name="SRK TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png" group-title="Bangla",SRK TV
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="132000" tvg-name="Channel I HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png" group-title="Bangla",Channel I HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+
+#EXTINF:-1 tvg-id="100000" tvg-name="Bangla Vision" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="Bangla",Bangla Vision
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+
+#EXTINF:-1 tvg-id="99000" tvg-name="NTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560841094.png" group-title="Bangla",NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+
+#EXTINF:-1 tvg-id="240000" tvg-name="BTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778082545894.png" group-title="Bangla",BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/8a1af81802b0728c064c2adabcdc72c8" group-title="Bangla",ETV
+https://tvsen6.aynaott.com/etv/index.m3u8?e=1780662759&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=9cc33a007f2eb0c67cef45487a090d36
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/094587a26f2c5e4f2962104728ec8c5d" group-title="Bangla",RTV
+https://tvsen5.aynaott.com/RtvHD/index.m3u8?e=1780662760&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f7a73bb1fa179c6a6ac4f1bca204fb01
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/58658d4594ca1ff3c5031c9d8e3d9fc0" group-title="Bangla",Boishakhi TV
+https://tvsen6.aynaott.com/boishakhitv/index.m3u8?e=1780662759&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3e12e6fd24d5639ea078401b9f56b6cb
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/e42ecfa90e3d6b15bdb7fea5ef673864" group-title="Bangla",Bangla TV
+https://tvsen6.aynaott.com/banglatv/index.m3u8?e=1780662759&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=6ae157dbfcdd0382ea09a531150a301d
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/897698f593fc07974fc46881a440733d" group-title="Bangla",Ananda TV
+https://tvsen6.aynaott.com/anandatv/index.m3u8?e=1780662759&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=266cd7f3ac11015c902e1a047f912b8d
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/c5b2c623863fbe4033d59d52ff7371ac" group-title="Bangla",My TV
+https://tvsen6.aynaott.com/mytv/index.m3u8?e=1780662759&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=bd41c6fa96b9160454fe0e51df885a15
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/ffd7ba9b76ad555933f94bcb7ff26b44" group-title="Bangla",Global TV
+https://tvsen6.aynaott.com/globaltvhd/index.m3u8?e=1780662760&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=fd5d513242f7df1450dca1e1bbdff5ec
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/f23d6f82c1a16458fe0e4c6f11b8fd87" group-title="Bangla",Bijoy TV
+https://tvsen6.aynaott.com/bijoytv/index.m3u8?e=1780662760&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3ce64c165e70832dc446d5fe776bb64b
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/90635c3edf6e3c8dd92210b7248f1fa0" group-title="Bangla",NEXUS TV
+https://tvsen6.aynaott.com/nexustv/index.m3u8?e=1780662760&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=5d03a4a1dcabca2fdc5af25b2607827b
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/73082846fdc15d9f0e7268b104c55d92" group-title="Bangla",Mohona TV
+https://tvsen6.aynaott.com/mohonatv/index.m3u8?e=1780662760&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a344557df37b6e128c03649880c0dba5
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/6d1aaa03b84a69992940873fc11af8fc" group-title="Bangla",Thikana
+https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Green TV (1080p)" group-title="Bangla",Green TV (1080p)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Desh TV (1080p)" group-title="Bangla",Desh TV (1080p)
+https://bozztv.com/rongo/rongo-DeshTV/index.m3u8
+
+#EXTINF:-1 tvg-name="Boishakhi TV" group-title="Bangla",Boishakhi TV
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+
+#EXTINF:-1 tvg-name="Ekushey TV (480p)" group-title="Bangla",Ekushey TV (480p)
+https://ekusheyserver.com/etvlivesn.m3u8

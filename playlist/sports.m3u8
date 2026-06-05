@@ -1,0 +1,56 @@
+#EXTINF:-1 tvg-id="205000" tvg-name="Sports Legends" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770377900139.png" group-title="Sports",Sports Legends
+https://nomawnoijl.gpcdn.net/akash/sportslegends/playlist.m3u8
+
+#EXTINF:-1 tvg-id="206000" tvg-name="Flash Guys HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378074527.png" group-title="Sports",Flash Guys HD
+https://nomawnoijl.gpcdn.net/akash/flashguys/playlist.m3u8
+
+#EXTINF:-1 tvg-id="217000" tvg-name="Sports Range" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380601958.png" group-title="Sports",Sports Range
+https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8
+
+#EXTINF:-1 tvg-id="218000" tvg-name="Thunder Er" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380791303.png" group-title="Sports",Thunder Er
+https://nomawnoijl.gpcdn.net/akash/thunder/playlist.m3u8
+
+#EXTINF:-1 tvg-id="219000" tvg-name="Fighters" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380942670.png" group-title="Sports",Fighters
+https://nomawnoijl.gpcdn.net/akash/fighter/playlist.m3u8
+
+#EXTINF:-1 tvg-id="244000" tvg-name="Crazy Ex" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778085745609.png" group-title="Sports",Crazy Ex
+https://nomawnoijl.gpcdn.net/akash/crazy_ex/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="Sports",Star Sports 1
+https://cdn8.zohanayaan.com:1686/hls/star1in.m3u8?md5=o9P8WJ_RKHQ8MPqiysji3Q&expires=1780663217
+
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/20-by-xfireflix.png" group-title="Sports",PTV Sports
+https://cdn6.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=ydVLs9QlWy0nEchqNnRlzQ&expires=1780663218
+
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="Sports",Willow HD
+https://cdn2.zohanayaan.com:1686/hls/willowusa.m3u8?md5=1W5GmrRPEhQOJcVK8KHEKQ&expires=1780663218
+
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/10-by-xfireflix.png" group-title="Sports",Ten Sports
+https://cdn10.zohanayaan.com:1686/hls/tenspk.m3u8?md5=6BI_mV-_FZxWDQviUZSf9Q&expires=1780663218
+
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="Sports",A Sports HD
+https://cdn4.zohanayaan.com:1686/hls/asportshd.m3u8?md5=eqNjW0UhvKm8dyizjo3eFg&expires=1780663218
+
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/9-by-xfireflix.png" group-title="Sports",Sky Sports Cricket
+https://cdn5.zohanayaan.com:1686/hls/skyscric.m3u8?md5=ZNA-0cz7I96Hpz5QOq64jQ&expires=1780663218
+
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/6-by-xfireflix.png" group-title="Sports",Fox Cricket 501 HD
+https://cdn9.zohanayaan.com:1686/hls/fox501.m3u8?md5=GIVLwiHMp94XcXUXk8iCJA&expires=1780663222
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Sports",T Sports HD
+https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1780662761&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=755de1abb34402b6543ac8e82a34488d
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/9d9d7cbfba5a8ceea648bbd963ad1014" group-title="Sports",PTV Sports
+https://tvsen5.aynaott.com/PtvSports/index.m3u8?e=1780662761&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b714d4f0812496defe4be81125c560aa
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b" group-title="Sports",A sports
+https://tvsen6.aynaott.com/asports/index.m3u8?e=1780662762&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=79cb2b10ec3a06c91dc483a6f1a04f36
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/7d20b575edc4e4b5276faa8c246e72a4" group-title="Sports",Cricket Gold
+https://tvsen6.aynaott.com/CricketGold/index.m3u8?e=1780662762&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c1ffa5e779430e350c5cc5401c9b9bdc
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788" group-title="Sports",Willow TV
+https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1780662762&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=7ff3de9f9a286f0a6df46787e8abd8fb
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/188500190395c4de0e506d518925dcc4" group-title="Sports",DD Sports
+https://cdn-6.pishow.tv/live/13/master.m3u8

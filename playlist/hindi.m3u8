@@ -1,0 +1,38 @@
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/20c3a2638df99ece9eb12aabfc03a8c3" group-title="Hindi",Music India
+https://cdn-2.pishow.tv/live/226/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/d2d8f00a60dc64dad6c0181cd86f7869" group-title="Hindi",9x Jalwa
+https://tvsen6.aynaott.com/9xjalwa/index.m3u8?e=1780662764&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=cf8e4c17c796b85004b00ca4c8cfd5f0
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/5d052254516639955d06182690d3fda2" group-title="Hindi",9X Tashan
+https://tvsen6.aynaott.com/9X_Tashan/index.m3u8?e=1780662765&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=9a69ff96cd25a97aef39f1c3663e7fed
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/f4edcca7247bbb4a263a51d7ebb82282" group-title="Hindi",Dhinchaak
+https://tvsen6.aynaott.com/Dhinchaak/index.m3u8?e=1780662765&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a541a5a1d88bebb1881b71f43ea74755
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/1a62a70103bac9999411a72b8a8b7ccc" group-title="Hindi",Manoranjan TV
+https://tvsen6.aynaott.com/ManoranjanTV/index.m3u8?e=1780662765&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=452ee62d3d0e44d3c8266f00778abf93
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/09e356a3181cc613cf5680619d50a5f5" group-title="Hindi",Network 10
+https://tvsen6.aynaott.com/Network10/index.m3u8?e=1780662765&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f0e4d4376d8f64b6126bc1be85eeae22
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/947715e0a22f16ac21805073ce6eb0b6" group-title="Hindi",Republic TV Bharat
+https://tvsen6.aynaott.com/RepublicTVBharat/index.m3u8?e=1780662765&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=cc6e8c5d4f997d730dcf0694416e7b6b
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/499219599639007120dc540bdc6e7d9d" group-title="Hindi",Green TV HD
+https://tvsen6.aynaott.com/GreenTvHD/index.m3u8?e=1780662765&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=8ab9c028afb964d9e9ddced81d54619e
+
+#EXTINF:-1 tvg-name="Goldmines Bollywood" group-title="Hindi",Goldmines Bollywood
+http://103.175.73.12:8080/live/52/52_0.m3u8
+
+#EXTINF:-1 tvg-name="B4U Kadak" group-title="Hindi",B4U Kadak
+https://cdn-2.pishow.tv/live/227/master.m3u8
+
+#EXTINF:-1 tvg-name="Zee Anmol TV" group-title="Hindi",Zee Anmol TV
+http://103.175.73.12:8080/live/256/256_0.m3u8
+
+#EXTINF:-1 tvg-name="Zee Action" group-title="Hindi",Zee Action
+http://103.175.73.12:8080/live/270/270_0.m3u8
+
+#EXTINF:-1 tvg-name="9XM" group-title="Hindi",9XM
+http://103.175.73.12:8080/live/155/155_0.m3u8

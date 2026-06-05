@@ -1,0 +1,38 @@
+#EXTINF:-1 tvg-id="223000" tvg-name="Islamic TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1772728412891.png" group-title="Islamic",Islamic TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
+
+#EXTINF:-1 tvg-id="245000" tvg-name="Al Quran" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778086065071.png" group-title="Islamic",Al Quran
+https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/5442b2655aca6398b26ba539f396565a" group-title="Islamic",Peace TV Urdu HD
+https://tvsen6.aynaott.com/PeaceTVUrduHD/index.m3u8?e=1780662766&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f1c15931c19c6a9b1543487b8a850077
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3458d0d9097a8283a94a13374bcbf5c7" group-title="Islamic",Channel Win
+https://cdn-4.pishow.tv/live/229/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/66ac3ae1e56001353b69bb5f63ebcc6e" group-title="Islamic",Deen TV
+https://tvsen7.aynaott.com/deen/index.m3u8?e=1780662766&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=bbf8b8613ca9f2d5950eeb8c418f9f3c
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/09d759c7bb93fa3fb76014c8936201ce" group-title="Islamic",Eman Channel
+https://tvsen6.aynaott.com/eman/index.m3u8?e=1780662766&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f00c319fb6d087d5dcd117a80a17ce0c
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/5b8848e0ec2d5cd133fadef42317dec5" group-title="Islamic",TAQBEER
+https://tvsen7.aynaott.com/takbeer/index.m3u8?e=1780662766&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d3ac4300689dcc42e937c35f152f0631
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/813fca9bc7df9a4810efe2eb87c57039" group-title="Islamic",MADANI TV
+https://tvsen7.aynaott.com/MadaniTV/index.m3u8?e=1780662766&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=9cce8d9bcc53b8fb605c5819803310c4
+
+#EXTINF:-1 tvg-name="Sunnah Tv" group-title="Islamic",Sunnah Tv
+http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
+
+#EXTINF:-1 tvg-name="QURAN" group-title="Islamic",QURAN
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Live Quran TV" group-title="Islamic",Live Quran TV
+https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Madani Tv" group-title="Islamic",Madani Tv
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+
+#EXTINF:-1 tvg-name="AL SUNNAH TV" group-title="Islamic",AL SUNNAH TV
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
