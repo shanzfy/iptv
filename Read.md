@@ -40,17 +40,17 @@
 
 | ফাইলের নাম | বর্ণনা |
 |------------|--------|
-| bangla-channels.txt | সব বাংলা টিভি চ্যানেল |
-| news-channels.txt | দেশি-বিদেশি নিউজ চ্যানেল |
-| sports-channels.txt | স্পোর্টস চ্যানেল |
-| movie-channels.txt | মুভি চ্যানেল |
-| hindi-channels.txt | হিন্দি চ্যানেল |
-| kids-channels.txt | শিশুতোষ চ্যানেল |
-| english-channels.txt | ইংরেজি চ্যানেল |
-| islamic-channels.txt | ইসলামিক চ্যানেল |
-| infotainment-channels.txt | ইনফোটেইনমেন্ট |
-| live-events.txt | লাইভ ইভেন্ট |
-| music-channels.txt | মিউজিক চ্যানেল |
+| bangla.m3u8 | সব বাংলা টিভি চ্যানেল |
+| news.m3u8 | দেশি-বিদেশি নিউজ চ্যানেল |
+| sports.m3u8 | স্পোর্টস চ্যানেল |
+| movies.m3u8 | মুভি চ্যানেল |
+| hindi.m3u8 | হিন্দি চ্যানেল |
+| kids.m3u8 | শিশুতোষ চ্যানেল |
+| english.m3u8 | ইংরেজি চ্যানেল |
+| islamic.m3u8 | ইসলামিক চ্যানেল |
+| infotainment.m3u8 | ইনফোটেইনমেন্ট |
+| live.m3u8 | লাইভ ইভেন্ট |
+| music.m3u8 | মিউজিক চ্যানেল |
 
 ---
 
@@ -115,10 +115,10 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 আমাদের সাথে যোগাযোগ করতে বা আপডেট পেতে নিচের বাটনগুলোতে ক্লিক করুন:
 
 <p align="left">
-  <a href="https://t.me/YOUR_TELEGRAM_LINK">
+  <a href="https://t.me/https//t.me/contact_shan">
     <img src="https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="https://facebook.com/YOUR_FACEBOOK_LINK">
+  <a href="https://facebook.com/shanbd24">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
   <a href="https://zentv.pages.dev">
@@ -126,7 +126,6 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
   </a>
 </p>
 
-> 💡 *নোট: বাটনের ভেতর আপনার নিজের টেলিগ্রাম ও ফেসবুক লিংক বসাতে চাইলে কোডের `https//t.me/contact_shan` এবং `https://f.me/shanbd24` অংশটুকু পরিবর্তন করে আপনার আসল লিংক দিয়ে দিন।*
 
 ---
 
